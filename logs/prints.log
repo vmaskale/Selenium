@@ -1,0 +1,30 @@
+22:31:58.777 [main] DEBUG tests.LoginTest - Browser got launched
+22:32:03.477 [main] DEBUG tests.LoginTest - Navigated to application URL
+22:32:04.241 [main] DEBUG tests.LoginTest - Clicked on My Account dropdown
+22:32:04.617 [main] DEBUG tests.LoginTest - Clicked on login option
+22:32:04.820 [main] DEBUG tests.LoginTest - Email addressed got entered
+22:32:04.904 [main] DEBUG tests.LoginTest - Password got entered
+22:32:05.507 [main] DEBUG tests.LoginTest - Clicked on Login Button
+22:32:05.640 [main] DEBUG tests.LoginTest - User got logged in
+22:32:05.640 [main] INFO  tests.LoginTest - Login Test got passed
+22:32:05.828 [main] DEBUG tests.LoginTest - Browser got closed
+22:32:06.791 [main] DEBUG tests.LoginTest - Browser got launched
+22:32:08.070 [main] DEBUG tests.LoginTest - Navigated to application URL
+22:32:08.881 [main] DEBUG tests.LoginTest - Clicked on My Account dropdown
+22:32:09.174 [main] DEBUG tests.LoginTest - Clicked on login option
+22:32:09.320 [main] DEBUG tests.LoginTest - Email addressed got entered
+22:32:09.405 [main] DEBUG tests.LoginTest - Password got entered
+22:32:09.823 [main] DEBUG tests.LoginTest - Clicked on Login Button
+22:32:09.901 [main] DEBUG tests.LoginTest - User didn't log in
+22:32:09.901 [main] INFO  tests.LoginTest - Login Test got passed
+22:32:10.014 [main] DEBUG tests.LoginTest - Browser got closed
+22:35:32.046 [main] DEBUG tests.LoginTest - Browser got launched
+22:35:33.338 [main] DEBUG tests.LoginTest - Navigated to application URL
+22:35:33.985 [main] DEBUG tests.LoginTest - Clicked on My Account dropdown
+22:35:34.282 [main] DEBUG tests.LoginTest - Clicked on login option
+22:35:34.603 [main] DEBUG tests.LoginTest - Email addressed got entered
+22:35:34.813 [main] DEBUG tests.LoginTest - Password got entered
+22:35:35.473 [main] DEBUG tests.LoginTest - Clicked on Login Button
+22:35:35.626 [main] DEBUG tests.LoginTest - User got logged in
+22:35:35.626 [main] INFO  tests.LoginTest - Login Test got passed
+22:35:35.737 [main] DEBUG tests.LoginTest - Browser got closed
